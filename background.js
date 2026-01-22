@@ -1,7 +1,7 @@
 // background.js
 
 const API_URL = "https://api.exchangerate-api.com/v4/latest/USD";
-const HISTORICAL_API_URL_BASE = "https://api.frankfurter.app";
+const HISTORICAL_API_URL_BASE = "https://api.frankfurter.dev/v1";
 
 // Cache rates to avoid hitting API limit
 let cachedRates = null;

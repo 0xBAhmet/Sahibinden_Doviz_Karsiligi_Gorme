@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Sahibinden Döviz Takipçisi",
-  "version": "1.18",
+  "version": "1.19",
   "description": "Favoriye eklenen ilanların o anki döviz karşılığını kaydeder.",
   "permissions": [
     "storage",
